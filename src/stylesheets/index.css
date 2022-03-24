@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+    scroll-behavior: smooth;
+}
+
+table {
+    font-family: "Inter", sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 14px;
+}
+
+td,
+th {
+    border: 2px solid #eeeeee;
+    text-align: center;
+    padding: 5px;
+}
+
+th,
+tfoot {
+    background-color: #1b1a30;
+    color: #fff;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2fff3;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
