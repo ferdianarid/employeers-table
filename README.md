@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+## Translate Random JSON Users Data into Table
+Visualize json data dummy into table using react table
+
+<img src="https://raw.githubusercontent.com/ferdianar/react-table-users/master/src/assets/preview.png" alt="preview" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
